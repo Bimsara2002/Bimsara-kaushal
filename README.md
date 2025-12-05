@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300F700&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Enthusiast;React+%7C+Spring+Boot+Developer;Always+Learning+New+Things" />
 </p>
----
 
 ## 👨‍💻 About Me  
 🎓 Passionate **Undergraduate** exploring programming & modern technologies  
