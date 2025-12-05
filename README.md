@@ -1,11 +1,17 @@
 # Bimsara Kaushal  
 <h2 align="left">Hi 👋! I'm Bimsara Kaushal</h2>
 
+
+
 <!-- Banner / GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
 </div>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300F700&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Enthusiast;React+%7C+Spring+Boot+Developer;Always+Learning+New+Things" />
+</p>
 ---
 
 ## 👨‍💻 About Me  
